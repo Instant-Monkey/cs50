@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <cs50.h>
 
+//Mario more comfortable version,
+//Implement a program that prints out a double half-pyramid of a specified height.
 int main(void) {
 
     int repet = -1;
