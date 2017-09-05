@@ -1,3 +1,6 @@
+//Implement a program that encrypts messages using Vigenère’s cipher
+//http://docs.cs50.net/problems/vigenere/vigenere.html
+
 #include <stdio.h>
 #include <cs50.h>
 #include <string.h>
