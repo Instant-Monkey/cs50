@@ -4,8 +4,36 @@ This is CS50x, Harvard University's introduction to the intellectual enterprises
 
 Students who earn a satisfactory score on 9 problem sets (i.e., programming assignments) and a final project are eligible for a certificate. This is a self-paced course–you may take CS50x on your own schedule.
 
+### PSET1 (in C):
 
-What you'll learn
+- Implement a program that prints out a simple greeting to the user
+- Implement a program that prints out a double half-pyramid of a specified height
+- Implement a program that determines whether a provided credit card number is valid according to Luhn’s algorithm.
+
+### PSET2 (in C):
+
+- Implement a program that encrypts messages using Caesar’s cipher
+- Implement a program that encrypts messages using Vigenère’s cipher
+- Implement a program that cracks passwords by brute force
+
+### PSET3 (in C):
+
+- Implement a search number program in O(log n) and a sort numbers program in O(n2).
+- Implement the Game of Fifteen
+
+### PSET4 (in C):
+
+- Implement a program that reveals a hidden message in a BMP file
+- Implement a program that resizes BMPs
+- Implement a program that recovers JPEGs from a forensic image
+
+### PSET5 (in C):
+
+- Implement a program that spell-checks words in a file
+
+
+
+Course syllabus
 
 - A broad and robust understanding of computer science and programming
 - How to think algorithmically and solve programming problems efficiently
